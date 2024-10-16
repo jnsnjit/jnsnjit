@@ -1,4 +1,10 @@
-## Hi there 👋
+# About Me! 👋 #
+
+Hello, my name is Jimmy Silva, and here is some information about me! 😁 <br><br> My current interest are in cybersecurity, information technology, computer science, networking, and system administration 💯<br>
+I am a undergraduate sophomore attending the Honors College at New Jersey Institute of Technology 👑<br>
+You can reach to me on github, or more preferably, my LinkedIn: [website (https://www.linkedin.com/in/jimmy-silva-njit-adhc/)][website] ⚪<br>
+Working a lot right now, ranging from different class projects in JavaScript, Java, PHP, HTML, MySQL, and Python <br>
+In my spare time I like to do CTF's - forensic/networking challenges are my favorite! 🔓 <br>
 
 <!--
 **jnsnjit/jnsnjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
