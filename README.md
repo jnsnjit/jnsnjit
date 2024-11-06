@@ -7,6 +7,7 @@ You can reach out to me on github, or preferably, my LinkedIn: https://www.linke
 I'm currently working on a variety of class projects in JavaScript, Java, PHP, HTML, MySQL, and Python. <br>
 In my spare time, I enjoy participating in CTFs—my favorite challenges are in forensics and networking!  🔓 <br>
 Check my pinned repo's! 👀 <br>
+Currently going for my Comptia Security+ Certification
 <!--
 **jnsnjit/jnsnjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
