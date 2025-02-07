@@ -8,6 +8,5 @@ I'm currently working on a variety of class projects in JavaScript, Java, PHP, H
 In my spare time, I enjoy participating in CTFs—my favorite challenges are in forensics and networking!  🔓 <br>
 Check my pinned repo's! 👀 <br>
 Just picked up my Comptia Security+ Certification in December!
-
 [![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/jimmySilva.png)](https://tryhackme.com/p/jimmySilva)
 <!--**jnsnjit/jnsnjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
