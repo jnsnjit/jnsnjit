@@ -9,5 +9,5 @@ In my spare time, I enjoy participating in CTFs—my favorite challenges are in 
 Check my pinned repo's! 👀 <br>
 Just picked up my Comptia Security+ Certification in December!
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/jimmySilva.png" alt="Your Image Badge" />
+[![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/jimmySilva.png)](https://tryhackme.com/p/jimmySilva)
 <!--**jnsnjit/jnsnjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
