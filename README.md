@@ -14,7 +14,7 @@ Just picked up my Comptia Security+ Certification in December!<br><br>
 <img src="https://api.badgr.io/public/assertions/vYFN80vATLOm9WCfo90OZQ/image" alt="DEADFACE2024" width="75" height="50">
 
 # My Stats 🔥🔥 #
-[![wakatime](https://wakatime.com/badge/github/jnsnjit/jnsnjit.svg)](https://wakatime.com/badge/github/jnsnjit/jnsnjit)
+[![wakatime](https://wakatime.com/badge/user/fc280675-d3f1-4fa1-a2b7-beebb2f8166e.svg)](https://wakatime.com/@fc280675-d3f1-4fa1-a2b7-beebb2f8166e)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
 <!--**jnsnjit/jnsnjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
 
