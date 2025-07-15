@@ -8,9 +8,9 @@ I'm currently working on a variety of class projects in JavaScript, Java, PHP, H
 In my spare time, I enjoy participating in CTFs—my favorite challenges are in forensics and networking!  🔓 <br>
 Check my pinned repo's! 👀 <br>
 
-Certifications:
-CompTIA Cybersecurity Analyst / CySA+ - July 2025
-CompTIA Security+ - December 2024
+## __Certifications__ 🧠 ##
+CompTIA Cybersecurity Analyst / CySA+ - July 2025 <br>
+CompTIA Security+ - December 2024 <br>
 
 ![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/jimmySilva.png)
 <img src="https://api.badgr.io/public/assertions/tiYU3xEGQliluy9YhIyjkQ/image" alt="NCAE Badge" width="75" height="50">
