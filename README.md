@@ -7,7 +7,11 @@ You can reach out to me on github, or preferably, my LinkedIn: https://www.linke
 I'm currently working on a variety of class projects in JavaScript, Java, PHP, HTML, MySQL, and Python. <br>
 In my spare time, I enjoy participating in CTFs—my favorite challenges are in forensics and networking!  🔓 <br>
 Check my pinned repo's! 👀 <br>
-Just picked up my Comptia Security+ Certification in December!<br><br>
+
+Certifications:
+CompTIA Cybersecurity Analyst / CySA+ - July 2025
+CompTIA Security+ - December 2024
+
 ![TryHackMe Stats](https://tryhackme-badges.s3.amazonaws.com/jimmySilva.png)
 <img src="https://api.badgr.io/public/assertions/tiYU3xEGQliluy9YhIyjkQ/image" alt="NCAE Badge" width="75" height="50">
 <img src="https://api.badgr.io/public/assertions/Qnc4DXKvTlG1D5R_oZ7a7Q/image" alt="Spooky2024" width="75" height="50">
