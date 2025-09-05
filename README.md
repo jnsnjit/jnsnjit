@@ -20,5 +20,9 @@ CompTIA Security+ - December 2024 <br>
 # My Stats 🔥🔥 #
 [![wakatime](https://wakatime.com/badge/user/fc280675-d3f1-4fa1-a2b7-beebb2f8166e.svg)](https://wakatime.com/@fc280675-d3f1-4fa1-a2b7-beebb2f8166e)
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix)
+
+nicc{f0ll0w_th3_rul32!}
 <!--**jnsnjit/jnsnjit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --!>
+
+
 
